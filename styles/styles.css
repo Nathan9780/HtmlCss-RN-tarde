@@ -1,0 +1,35 @@
+.headerFooter {
+    background-color: blue;
+    text-align: center;
+    height: 50px;
+}
+#sidebar {
+    background-color: chartreuse;
+    width: 400px;
+}#containerArticle{
+background-color: tomato;
+flex-grow: 1;
+text-align: center;
+align-content: flex-end;
+}
+#container {
+    display: flex;
+    height: 75vh;
+    margin-top: 20px;
+    gap: 20px;
+}
+#containerimagens {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+padding-bottom: 20px;
+
+}
+.imagens {
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    
+    
+    
+}
